@@ -7,7 +7,7 @@
 
 ![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquevsantos&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no dia a dia!
+## Tecnologias que uso no dia a dia:
 
 <div style="display: inline_block">
   <br/>
@@ -18,7 +18,7 @@
   <br/>
 </div>
 
-## Tecnologias que estou aprendendo! 
+## Tecnologias que estou aprendendo:
 
 <div style="display: inline_block">
   <br/>
