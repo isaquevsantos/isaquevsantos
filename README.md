@@ -1,5 +1,10 @@
 # Olá! Eu sou o Isaque Santos 👋
-<p> Graduando em Sistemas de Informação na Universidade Federal de Mato Grosso do Sul, tenho um grande interesse na área de Desenvolvimento Front-end. </p>
+<p>Sou graduando em Sistemas de Informação pela Universidade Federal de Mato Grosso do Sul (UFMS), no campus de Três Lagoas, e tenho me dedicado a aplicar meus conhecimentos em projetos que geram impacto social. Como parte de um projeto de extensão, ofereço aulas de informática básica para adolescentes em situação de vulnerabilidade social, com foco na preparação para o mercado de trabalho.
+
+Minha trajetória profissional é marcada por uma combinação de habilidades em marketing digital, social media e educação tecnológica, onde utilizo metodologias inovadoras que incluem pensamento computacional, cultura maker, robótica e STEAM. Atualmente, estou focado no desenvolvimento de software, com uma forte paixão pelo Front-End, e possuo experiência em desenvolvimento Full Stack utilizando Angular e Java.
+
+Minha formação é complementada por certificações em Versionamento e GIT, Trabalhando em Equipes Ágeis, JavaScript para WEB, e Web Components no Angular. Valorizo a colaboração em equipe, a comunicação eficaz e a busca constante por soluções inovadoras, sempre com o objetivo de crescer tanto profissional quanto pessoalmente.
+ </p>
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isaquevsantos/)
